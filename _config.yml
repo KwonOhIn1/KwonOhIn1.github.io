@@ -23,8 +23,8 @@ user:
   name: 오인이의 일상
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
-  aboutme: true # comment this out if you don't need the 'about' page.
+  job: 소프트웨어학과/20학번
+  aboutme: false # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
